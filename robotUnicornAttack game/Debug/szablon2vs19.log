@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(145,33): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(267,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(271,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(277,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(281,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(469,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(476,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(477,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(479,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\main.cpp(341,42): warning C4101: 'distance': unreferenced local variable
+  szablon2vs19.vcxproj -> C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\Debug\szablon2vs19.exe

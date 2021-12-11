@@ -1,0 +1,2 @@
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\x64\Debug\trucizna.exe
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\x64\Debug\trucizna.pdb

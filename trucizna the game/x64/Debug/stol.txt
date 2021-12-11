@@ -1,0 +1,10 @@
+active player = 2
+players number = 2
+explosion threshold = 12
+1 player hand cards: 5 green 5 green 5 green 
+1 player deck cards: 
+2 player hand cards: 2 blue 5 green 2 red 
+2 player deck cards: 
+1 pile cards: 2 violet 
+2 pile cards: 
+3 pile cards: 

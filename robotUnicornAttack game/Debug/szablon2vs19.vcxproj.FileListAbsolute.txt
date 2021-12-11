@@ -1,0 +1,6 @@
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\robotUnicornAttack\template-project-2\Debug\szablon2vs19.exe
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\robotUnicornAttack\template-project-2\Debug\szablon2vs19.pdb
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\robotUnicornAttack\Debug\szablon2vs19.exe
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\robotUnicornAttack\Debug\szablon2vs19.pdb
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\Debug\szablon2vs19.exe
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekty sem1\Projekt POP\robotUnicornAttack\Debug\szablon2vs19.pdb

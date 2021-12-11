@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(41,6): warning C4101: 'wartoscZielonych': unreferenced local variable
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(40,6): warning C4101: 'liczbaZielonych': unreferenced local variable
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(38,6): warning C4101: 'liczbaGraczy': unreferenced local variable
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(39,6): warning C4101: 'liczbaKociolkow': unreferenced local variable
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(43,6): warning C4101: 'wartosciKart': unreferenced local variable
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(42,6): warning C4101: 'liczbaKartInnychKolorow': unreferenced local variable
+C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Source.cpp(44,8): warning C4101: 'talia': unreferenced local variable
+  trucizna.vcxproj -> C:\Users\marek\OneDrive\Dokumenty\Studia\Projekt POP\trucizna\Debug\trucizna.exe
